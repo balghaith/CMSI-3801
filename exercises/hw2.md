@@ -24,7 +24,7 @@ Q6: function arithmeticsequence(start, delta)
 
 * I got help from an AI tool to help me out with this problem as I got stuck.
 
-Q7: a: 1*1-1 = 0
-    b: 1*3-1 = 2
+Q7: a: 1x1-1 = 0
+    b: 1x3-1 = 2
 
 Q8: Because static scoping gives the programer the option to define the variables in their code and use it at all times, making it more efficant since it already has the program aware of that variable. Shallow binding refers to the latest values of a variable and would need to access other functions/lines of code in order to get their meanings.
