@@ -1,0 +1,7 @@
+
+Testing firstThenLowerCase . . . .
+Testing say . . . . . . . . . . .
+Testing meaningfulLineCount . .
+Testing Quaternion . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Testing BinarySearchTree . . F . . . . . . . . . . . . . .
+60 passed, 1 failed

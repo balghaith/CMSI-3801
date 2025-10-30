@@ -1,5 +1,6 @@
 a.out
 *.class
+*.jar
 *.exe
 *.obj
 *.o
@@ -14,3 +15,4 @@ package-lock.json
 .DS_Store
 __pycache__
 META-INF/
+main
