@@ -69,4 +69,3 @@ If a class manages some resource and the user defines one of the big special fun
 1. A user may have either many immutable references or exactly one mutable reference to a value at the same time, but not both.  
 2. References must never outlive the data they point to, so they are always valid.  
 3. Borrowing does not change who owns the value; it just lets other code temporarily access it through references.
-

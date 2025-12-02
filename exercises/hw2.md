@@ -69,4 +69,3 @@ end
 
 ## Q8
 Static scoping is where the meaning of a variable is based on how it appears textually in the program—the scope for that particular occurrence or usage of the name, determined by where it occurs within the program. With shallow binding, however, the latest environment in which the variable was assigned at runtime is utilized.
-
